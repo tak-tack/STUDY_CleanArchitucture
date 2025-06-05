@@ -1,7 +1,8 @@
 /*
 Domain
  */
-package org.hhplus.cleanarchitucture.lectures.model.domain;
+package org.hhplus.
+        cleanarchitucture.lectures.model.domain;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -14,5 +15,5 @@ import java.util.Date;
 public class LectureDomain {
     Long userId;
     Long lectureId;
-    LocalDateTime createDate;
+    LocalDateTime createDate;//
 }
